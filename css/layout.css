@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url("http://wallpaper-gallery.net/images/dark-grey-wallpapers/dark-grey-wallpapers-9.jpg") no-repeat top center;
+   background: #161415 url("https://scontent.fdel8-1.fna.fbcdn.net/v/t31.0-8/20626778_1561214930596853_5490694408991131989_o.jpg?_nc_cat=0&oh=d6edd7ef6d5429c21ad7ca8ecbb1a2ab&oe=5BDA274F&efg=eyJhZG1pc3Npb25fY29udHJvbCI6MCwidXBsb2FkZXJfaWQiOiIxMDAwMDEyNTA4MzM2NjgifQ%3D%3D") no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -193,6 +193,10 @@ ul#nav li.current a { color: #F06000; }
    overflow: hidden;
 }
 
+
+#make_red h3{
+  color:lightblue;
+}
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
 
