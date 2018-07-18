@@ -195,7 +195,9 @@ ul#nav li.current a { color: #F06000; }
 
 
 #make_red h3{
-  color:lightblue;
+  font-size: 22px;
+  font-weight: bolder;
+  color:white;
 }
 #about a, #about a:visited  { color: #fff; }
 #about a:hover, #about a:focus { color: #11ABB0; }
